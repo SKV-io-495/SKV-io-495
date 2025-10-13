@@ -8,14 +8,18 @@ I specialize in building **full-stack, cloud-native applications**—from concep
 
 #### 🛠️ **Technical Skills**
 
-- **DevOps & Cloud:** Docker, AWS (ECR, App Runner), CI/CD automation (GitHub Actions)
-- **Full-Stack Development:** Next.js, React, TypeScript, Node.js, Tailwind CSS, REST APIs
+- **Languages:** JavaScript, TypeScript, C, C++, Python, SQL
+- **DevOps & Cloud:** Docker, AWS (ECR, App Runner), CI/CD pipeline automation with GitHub Actions, Vercel, Git
+- **Front-End Development:** React, Next.js, Redux, Tailwind CSS
+- **Back-End Development:** Node.js, Express, REST APIs, Firebase
 - **Databases:** PostgreSQL, MongoDB, Drizzle ORM
-- **Problem Solving:** Data Structures & Algorithms (440+ LeetCode problems solved)
+- **Machine Learning & AI:** TensorFlow, Keras, Scikit-learn, OpenCV, FastAPI, Flask
+- **Problem Solving:** Data Structures & Algorithms (440+ problems solved on LeetCode)
+- **Developer Tools:** GitHub, Postman, Figma, Canva
 
 #### 🤝 **Soft Skills**
 
-Problem-solving • Collaboration • Adaptability • Strong sense of ownership
+Problem-Solving • Collaboration • Adaptability • Strong sense of ownership
 
 ---
 
