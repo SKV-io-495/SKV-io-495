@@ -68,6 +68,7 @@ Problem-Solving • Collaboration • Adaptability • Strong sense of ownership
 
 **[Nike Store – Cloud-Native E-commerce Platform](https://github.com/SKV-io-495/nike-store)**
 > My favorite project! I built a full-stack e-commerce app, containerized it with Docker, set up a complete CI/CD pipeline with GitHub Actions, and deployed it to AWS (ECR + App Runner). This showcases my ability to handle projects from local development to scalable cloud environments.
+* **[Live Demo](https://nike-store-smoky.vercel.app/)** 
 
 **SkinInsights – Skin Cancer Detection System**
 > Trained a CNN with TensorFlow and deployed it via FastAPI (backend) and React (frontend), demonstrating my skills in machine learning and full-stack deployment.
