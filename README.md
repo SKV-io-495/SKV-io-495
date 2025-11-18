@@ -49,7 +49,8 @@ I specialize in architecting **cloud-native microservices** and **full-stack app
 ![RAG Pipeline](https://img.shields.io/badge/RAG%20Pipeline-4CAF50?style=flat&logo=langchain&logoColor=white)
 
 **Problem Solving:**  
-![LeetCode](https://img.shields.io/badge/LeetCode-FFA116?style=flat&logo=leetcode&logoColor=black) 500+ problems solved
+![LeetCode](https://img.shields.io/badge/LeetCode-FFA116?style=flat&logo=leetcode&logoColor=black) 
+![GeeksforGeeks](https://img.shields.io/badge/GeeksforGeeks-2A9D8F?style=flat&logo=geeksforgeeks&logoColor=white) 500+ problems solved
 
 ---
 
