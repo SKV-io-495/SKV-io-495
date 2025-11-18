@@ -38,12 +38,15 @@ I specialize in architecting **cloud-native microservices** and **full-stack app
 ![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=flat&logo=mongodb&logoColor=white)
 ![ChromaDB](https://img.shields.io/badge/ChromaDB-6B5B95?style=flat)
 ![Drizzle ORM](https://img.shields.io/badge/Drizzle%20ORM-7B4AE2?style=flat)
+![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=flat&logo=firebase&logoColor=black)
 
 **Machine Learning & AI:**  
 ![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=flat&logo=tensorflow&logoColor=white)
 ![Keras](https://img.shields.io/badge/Keras-D00000?style=flat&logo=keras&logoColor=white)
 ![LangChain](https://img.shields.io/badge/LangChain-189613?style=flat&logo=databricks&logoColor=white)
 ![Scikit-learn](https://img.shields.io/badge/Scikit--learn-F7931E?style=flat&logo=scikit-learn&logoColor=white)
+![LLM Ops](https://img.shields.io/badge/LLM%20Ops-7B42F6?style=flat&logo=robot&logoColor=white)
+![RAG Pipeline](https://img.shields.io/badge/RAG%20Pipeline-4CAF50?style=flat&logo=langchain&logoColor=white)
 
 **Problem Solving:**  
 ![LeetCode](https://img.shields.io/badge/LeetCode-FFA116?style=flat&logo=leetcode&logoColor=black) 500+ problems solved
@@ -60,8 +63,10 @@ System Design • Architectural Thinking • Trade-off Analysis • Strong Owner
 
 **[Alfred Assistant – Cloud-Native GenAI Application](https://github.com/SKV-io-495/Alfred-Assistant)** 🚀 **Live on GCP Cloud Run**
 > My DevOps proof-of-concept! Architected a **microservices** application (Next.js + Python FastAPI), containerized with **Docker**, and deployed with **Zero-Downtime** CI/CD using **GCP Cloud Build**. Implements a **RAG pipeline** using LangChain.
+* **[Live Demo](https://alfred-frontend-553828860388.asia-south1.run.app/)**
 
-**[Nike Store – Enterprise E-commerce Platform](https://github.com/SKV-io-495/nike-store)** > A robust marketplace built with **Next.js 15, TypeScript, and Drizzle ORM**. Features secure authentication and type-safe data modeling. The repository contains the full **Dockerized Cloud-Native architecture** (CI/CD ready).
+**[Nike Store – Enterprise E-commerce Platform](https://github.com/SKV-io-495/nike-store)** 
+> A robust marketplace built with **Next.js 15, TypeScript, and Drizzle ORM**. Features secure authentication and type-safe data modeling. The repository contains the full **Dockerized Cloud-Native architecture** (CI/CD ready).
 * **[Live Demo](https://nike-store-smoky.vercel.app/)** 
 
 ---
